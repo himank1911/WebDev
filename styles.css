@@ -1,0 +1,181 @@
+div
+{
+    display: flex;
+    align-items: center;
+}
+hr
+{
+    margin-top: 70px;
+}
+.searchBox
+{
+    text-align: left;
+    padding-left: 10px;
+    position: fixed;
+    top:30px;
+    left: 580px;
+    outline: black;
+    font-size: 15;
+    font-family: Arial;
+    width: 300px;
+    height: 30px;
+}
+.alcher
+{
+    position: fixed;
+    left: 20px;
+    top: 10px;
+    font-size: large;
+    font-family: Arial;
+}
+.Home
+{
+    position:fixed;
+    top:10px;
+    right: 190px;
+    font-style: normal;
+    font-size: large;
+    font-family: Arial;
+}
+.About
+{
+    position:fixed;
+    top:10px;
+    right: 110px;
+    font-style: normal;
+    font-size: large;
+    font-family: Arial;
+}
+.Contact
+{
+    position:fixed;
+    top:10px;
+    right: 25px;
+    font-style: normal;
+    font-size: large;
+    font-family: Arial;
+}
+.LoremBlack
+{
+    font-size:x-large;
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: fixed;
+    text-align: center;
+    left: 400px;
+    top: 100px;  
+}
+.LoremBlue
+{
+    font-size:x-large;
+    color: #0d6efd;
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position:fixed;
+    top:100px;
+    left: 710px;
+}
+.Line1
+{
+    position: fixed;
+    top: 180px;
+    left: 230px;
+    font-size: 17;
+    color: grey;
+    font-family: Arial;
+}
+.Line2
+{
+    position:fixed;
+    top:200px;
+    left:400px;
+    font-size: 17;
+    color: grey;
+    font-family: Arial;
+}
+.Button1
+{
+    position: fixed;
+    top:270px; 
+    left:530px;
+    height: 40px;
+    width: 120px;
+    background-color: #0d6efd;
+    color:white;
+    border: 0ch;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.Button2
+{
+    position: fixed;
+    top:270px; 
+    left:670px;
+    height: 40px;
+    width: 120px;
+    background-color:white;
+    color:#0d6efd;
+    border:0ch;
+    border-radius: 8px;
+    cursor:pointer;
+}
+.HTMLF
+{
+    position: fixed;
+    top: 370px;
+    left: 30px;
+    font-family: Arial;
+}
+.HTML_Table
+{
+    position: fixed;
+    left: 30px;
+    top: 500px;
+    font-family: Arial;
+}
+.Table
+{
+    position: fixed;
+    top: 540px;
+    left: 30px;
+}
+
+.Table1, th, td
+{
+    text-align: left;
+    border: 1px solid;
+    padding: 5px;
+    border-collapse: collapse;
+}
+.ThisIs
+{
+    position: fixed;
+    top: 400px;
+    left: 30px;
+    font-family: Arial;
+}
+.Links
+{
+    position:fixed;
+    bottom:0px;
+    left:600px;
+}
+.Image
+{
+    position:fixed;
+    top: 400px;
+    left:890px;
+    
+}
+.iFrame
+{
+    position:fixed;
+    left:400px;
+    top: 400px;
+}
+.HTMLiF
+{
+    position:fixed;
+    top:350px;
+    left:463px;
+}
